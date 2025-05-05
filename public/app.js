@@ -9,7 +9,7 @@ const usersList = document.getElementById('users-list');
 const pendingBooksList = document.getElementById('pending-books-list');
 
 // API Base URL
-const API_BASE_URL = 'http://localhost:3001';
+const API_BASE_URL = 'https://new-booktracker.vercel.app';
 
 // Navigation Links
 const loginLink = document.getElementById('login-link');
